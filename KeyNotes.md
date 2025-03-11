@@ -25,3 +25,6 @@ It emphasizes continuous coding, building, testing, and deployment of applicatio
 Various tools are needed to support the DevOps process, with Docker being highlighted as a key tool that facilitates continuous application deployment.
 
 ------------------------------------------------------
+
+**Microservices**:
+MicroServices are a variation of Service-Oriented Architecture (SOA), allowing software development to be divided into smaller, manageable segments handled by different teams
