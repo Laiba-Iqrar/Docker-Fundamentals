@@ -28,3 +28,23 @@ Various tools are needed to support the DevOps process, with Docker being highli
 
 **Microservices**:
 MicroServices are a variation of Service-Oriented Architecture (SOA), allowing software development to be divided into smaller, manageable segments handled by different teams
+
+------------------------------------------------------
+**Monolithic VS Microservices Architecture**:
+
+**Monolithic Services**:
+Single Unit: The entire application is developed as one unit, with tightly coupled components.
+Containerization: Packaged as a single Docker container, including all dependencies.
+Deployment: Involves running one container, making it straightforward.
+Scaling: Challenging, as scaling requires replicating the entire application.
+Maintenance: Any updates require redeploying the whole application, which can be time-consuming.
+
+**Microservices Architecture**:
+Independent Services: Decomposes the application into smaller, loosely coupled services.
+Containerization: Each service is packaged in its own Docker container, allowing for flexibility.
+Deployment: Involves multiple containers, enabling independent scaling.
+Scaling: Allows for fine-grained scaling of individual services based on demand.
+Maintenance: Updates to one service do not affect the entire application, making it easier to manage.
+
+------------------------------------------------------
+
