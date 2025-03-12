@@ -2,7 +2,7 @@
 ---
 
 #### **Docker Engine**
-![image](https://github.com/user-attachments/assets/84112f72-cf98-443a-b676-2dc808014f73)
+![image](https://github.com/user-attachments/assets/f1b5d9a6-ac8c-4627-b52c-da56c4dd27ef)
 
 **Client-Server Model**:
  **Docker Engine Components**:
