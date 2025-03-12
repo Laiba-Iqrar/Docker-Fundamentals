@@ -48,6 +48,8 @@ Example: docker run -d -p 80:80 nginx runs an Nginx container in detached mode a
 ### Data Volumes: 
 Persistent storage that exists outside of the container's writable layer. They are efficient and can be shared among containers.
 Example: docker volume create myvolume (creates a new volume)
+![image](https://github.com/user-attachments/assets/ef2f2ba1-0796-4c2f-a36c-6b89e4d8fea9)
+
 
 ### Volume Containers: 
 A dedicated container that hosts a volume, which can be mounted to other containers.
