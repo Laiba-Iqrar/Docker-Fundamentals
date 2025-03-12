@@ -22,3 +22,27 @@
 
 - Additional features: official product support with defined SLAs, extended software maintenance, long-term hotfixes, signed container images, certified reference architectures, and built-in security features.
 - Security scanning tool identifies vulnerabilities in code and requests patches from Docker.
+
+## Docker Enterprise Edition Components
+
+**Universal Control Plane (UCP)**
+Manages application deployment.
+
+Supports orchestrators like Kubernetes and Swarm.
+
+Designed for high availability with multiple manager nodes.
+
+**Docker Trusted Registry (DTR)**
+**Production-grade image storage solution.
+
+Scales horizontally to manage increasing image demands.
+
+Docker Desktop Enterprise
+
+Enhances local development on Windows.
+
+Supports various frameworks and IDEs for building applications.
+
+
+Docker Enterprise consists of UCP and DTR.
+Pricing is based on the number of nodes installed.
