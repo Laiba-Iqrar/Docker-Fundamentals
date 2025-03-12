@@ -2,6 +2,8 @@
 ---
 
 #### **Docker Engine**
+![image](https://github.com/user-attachments/assets/84112f72-cf98-443a-b676-2dc808014f73)
+
 **Client-Server Model**:
  **Docker Engine Components**:
   **Docker CLI**: Command-line interface (client).
